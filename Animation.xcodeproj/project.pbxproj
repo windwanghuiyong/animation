@@ -13,6 +13,7 @@
 		0CCA3FF01E22479D00D3EB3E /* Animation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0CCA3FEE1E22479D00D3EB3E /* Animation.xcdatamodeld */; };
 		0CCA3FF21E22479D00D3EB3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CCA3FF11E22479D00D3EB3E /* Assets.xcassets */; };
 		0CCA3FF51E22479D00D3EB3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CCA3FF31E22479D00D3EB3E /* LaunchScreen.storyboard */; };
+		0CCA3FFD1E224C3500D3EB3E /* PostionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCA3FFC1E224C3500D3EB3E /* PostionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0CCA3FF11E22479D00D3EB3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0CCA3FF41E22479D00D3EB3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0CCA3FF61E22479D00D3EB3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0CCA3FFC1E224C3500D3EB3E /* PostionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				0CCA3FE71E22479D00D3EB3E /* AppDelegate.swift */,
 				0CCA3FE91E22479D00D3EB3E /* ViewController.swift */,
+				0CCA3FFC1E224C3500D3EB3E /* PostionViewController.swift */,
 				0CCA3FEB1E22479D00D3EB3E /* Main.storyboard */,
 				0CCA3FF11E22479D00D3EB3E /* Assets.xcassets */,
 				0CCA3FF31E22479D00D3EB3E /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0CCA3FF01E22479D00D3EB3E /* Animation.xcdatamodeld in Sources */,
+				0CCA3FFD1E224C3500D3EB3E /* PostionViewController.swift in Sources */,
 				0CCA3FEA1E22479D00D3EB3E /* ViewController.swift in Sources */,
 				0CCA3FE81E22479D00D3EB3E /* AppDelegate.swift in Sources */,
 			);
